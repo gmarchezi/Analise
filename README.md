@@ -5,6 +5,6 @@ tanto para empresas que possuem como produto fim a prestação de serviços veic
 que possuem outros produtos/serviços fim, como exemplo uma empresa alimentícia que possue uma frota veicular.
 O sistema atua na administração organizacional e contábil dos veículos, gerando relatórios e comparações.
 
-Email: gabrielmarchezi@gmail.com
+Email: gabrielmarchezi@gmail.com <br>
 Contato: 99748-6913
 
